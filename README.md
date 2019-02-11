@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Styling from [Reactstrap](https://reactstrap.github.io/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Styling from [Reactstrap](https://reactstrap.github.io/).gi
 
 ## Untappd Brewerylist
 
@@ -14,3 +14,13 @@ REACT_APP_UNTAPPDSECRET=[api secret (remove brackets)]
 ```
 
 * Add Untappd brewery IDs to utils.js in the src folder.
+
+---
+
+Be aware of the API call restriction - 100 calls an hour. One brewery is one API call.
+
+---
+
+## Working version
+
+Check out https://untappd-brewerylist.herokuapp.com/ for a working version. If you want to deploy to Heroku you need to set the .env variables in the Heroku dashboard. Go to the settings tab and fill out the Config Vars.
