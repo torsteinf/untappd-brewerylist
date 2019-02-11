@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Styling from [Reactstrap](https://reactstrap.github.io/).gi
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Styling from [Reactstrap](https://reactstrap.github.io/).
 
 ## Untappd Brewerylist
 
